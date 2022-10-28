@@ -1,0 +1,11 @@
+{
+  "name": "hng9-task-1",
+  "version": "1.0.0",
+  "description": "Task one of the HNG9 internship program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lewis Ndung'u",
+  "license": "MIT"
+}
